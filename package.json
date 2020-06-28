@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "PinData1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kurtis Bauer",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
